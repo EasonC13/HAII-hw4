@@ -1,4 +1,4 @@
-# Homework 4: Prompting via Crowdsourcing Strategies**
+# Homework 4: Prompting via Crowdsourcing Strategies
 
 In this assignment, you will apply decades of research findings in Crowdsourcing instructions to LLM prompting. Hopefully the assignment will help you:
 
