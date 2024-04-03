@@ -77,13 +77,11 @@ Pick from one of the six crowdsourcing papers to read in detail. You will replic
 
 If you find the assignment difficult, there are some ways to earn partial credits, as shown below.
 
-The base grade will be up to 80, based on how you attempted the task:
-
 - **0 point** if no submission.
 - **40 points if you only describe your task and strategies without actual prompting**. You will only need to fill in the writeup sessions in the notebook. For the result part, you should write how you _envision_ the model to perform.
 - **70 points if you modified the pipeline in the Sample notebook** -- i.e., if you created a different task (that's not metaphor creation, and has different inputs and outptus), and showed that a pipeline similar to the Sample pipeline also works for your new task.
 - **80 points if you wrote a pipeline that's applicable to 1 input** (i.e., you made it work for a particular input).
-- **100 points if you wrote a pipeline that's applicable to 3 inputs** (i.e., you showed some generalizability).
+- **100 points if you wrote a pipeline that's applicable to 2 inputs** (i.e., you showed some generalizability).
 
 
 **Questions?**
